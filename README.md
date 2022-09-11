@@ -12,3 +12,8 @@ Contributions are always welcome!
 
 Please follow the `template.md` for PR.
 
+
+## Optimizations
+
+For better User experinece try to use [https://readme.so/editor](https://readme.so/editor) to generate your README.md file.
+
