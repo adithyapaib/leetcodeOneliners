@@ -1,18 +1,4 @@
 
-## ProblemNumber. ProblemName 
-problem description
+# LeetCode One Line Solutions
 
-
-
-
-## Programing Language
-
-<!-- code  -->
-
-```python
-class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool:
-        return len(nums) != len(set(nums))
-
-```
-
+One-liner leetcode Solutions : )
