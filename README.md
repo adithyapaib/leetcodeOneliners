@@ -5,4 +5,4 @@ One-liner leetcode Solutions : )
 
 ## Contributions
 
-Refer the template.md for more details
+Refer the [template.md](./template.md) for more details
