@@ -5,7 +5,7 @@
 1) Make sure you fork this repo before you Create a pull Request
 2) Create a folder with Problem number. Problem title (Eg: xxx. Problem Title)
 3) Make sure you follow the below format while Contributing the code
-4) Only valid Onelines will be accepted !
+4) Only valid Oneliners will be accepted !
 
 
 
