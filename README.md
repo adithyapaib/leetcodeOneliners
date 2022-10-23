@@ -1,7 +1,7 @@
 
 # LeetCode One Line Solutions
 
-One-liner leetcode Solutions : )
+One-liner leetcode Solutions :)
 
 ## Contributions
 
